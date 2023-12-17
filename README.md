@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Computer Science student
 ------------------------
-I have been learning to code for 4 years. In my first year, I was in high school, and I was coding with C#, which was my first programming language. I am currently in university, where I learned Haskell and C. I try to learn some new programming languages in my free time, and I am currently learning Go.
+I have been learning to code for 4 years. At the beginning (when I was in High School) I started coding with C#, which it was my first programming language at that time. At present, I am in university where I have learned Haskell and C. 
+I’m a proactive person, always trying to learn some new programming languages and I’m currently learning GO.
 
 * 🌍  I'm based in Braga, Portugal.
 * 🚀  I'm currently working on [E-commerce API](http://github.com/josecastro04/E-commerce-API)
