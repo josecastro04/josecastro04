@@ -36,8 +36,9 @@ Computer Science student
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
 </picture>
-</a></p>### Badges<b>My GitHub Stats</b><a
-href="http://www.github.com/josecastro04"><img src="https://github-readme-stats.vercel.app/api?username=josecastro04&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="josecastro04's GitHub stats" /></a>
+</a></p>### Badges<b>My GitHub Stats</b>
+<a
+href="http://www.github.com/josecastro04"><img src="https://github-readme-stats.vercel.app/api?username=josecastro04&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="josecastro04's GitHub stats"/></a>
 <a
 href="http://www.github.com/josecastro04"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=josecastro04&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
