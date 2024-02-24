@@ -8,7 +8,7 @@ I’m a proactive person, always trying to learn some new programming languages 
 
 * 🌍  I'm based in Braga, Portugal.
 * 🚀  I'm currently working on [E-commerce API](http://github.com/josecastro04/E-commerce-API)
-* 🧠  I'm learning Go, JS.
+* 🧠  I'm learning Go, Java.
 
 ### Skills
 
