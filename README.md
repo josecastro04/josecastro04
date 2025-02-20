@@ -7,7 +7,7 @@ I have been learning to code for 4 years. At the beginning (when I was in High S
 I’m a proactive person, always trying to learn some new programming languages and I’m currently learning Java.
 
 * 🌍  I'm based in Braga, Portugal.
-* 🚀  I'm currently working on [Orders](https://github.com/josecastro04/Projeto)
+* 🚀  I'm currently working on [Projeto](https://github.com/josecastro04/Projeto)
 * 🧠  I'm learning Python.
 
 ### Badges
